@@ -1,11 +1,11 @@
-# Handwritten Character Classifier (MNIST OCR Prototype)
+# Handwritten Character Classifier 
 
 This project demonstrates a deep learning prototype for recognizing handwritten characters, serving as a proof of concept for an Optical Character Recognition (OCR) system. Using the MNIST dataset, the project explores key PyTorch workflows such as data loading, image transformations, tensor operations, and neural network design with layers like Flatten, Softmax, and Pooling.
 
 ### Project Overview
 
 This project builds on foundational deep learning concepts for computer vision.
-It implements a neural network that classifies handwritten digits (0–9), preparing the groundwork for a larger OCR system.
+It implements a neural network that classifies handwritten digits (0–9).
 
 ### Objectives
 
@@ -117,7 +117,3 @@ The network consists of:
 
 
 
-Author
-
-Glory Akanbi
-Electrical & Electronics Engineering | AI & Robotics Enthusiast
