@@ -27,7 +27,7 @@ It implements a neural network that classifies handwritten digits (0–9).
 
 * Visualization: Matplotlib
 
-( Libraries: Torchvision, NumPy, Torch, Matplotlib
+Libraries: Torchvision, NumPy, Torch, Matplotlib
 
 #### Getting Started
 
